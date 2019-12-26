@@ -146,6 +146,15 @@ void initialisation(int longueur, int hauteur, int posx, int posy) {
   text("Buffer de données", posx+longueur+50, posy+375+40); 
   
   fill(255);
+  
+  textAlign(CENTER);
+  textSize(10);
+  //translate(posx-70, posy+355);
+  //rotate(3*PI/2);
+  text("bus d'adresses", posx-50-40, posy+270);
+  text("   bus de          contrôle", posx+longueur/2, posy+368);
+  text("bus de données", posx+longueur+50+42, posy+270);
+  textSize(12);
 }
 
 // =====================================================================================
