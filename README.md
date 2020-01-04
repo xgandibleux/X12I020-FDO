@@ -1,5 +1,5 @@
 # Fonctionnement des ordinateurs
-Complément au cours "Fonctionnement des ordinateurs" dispensé en L1 MIP
+Complément au cours "Fonctionnement des ordinateurs" dispensé en L1 Info - L1 MathsInfo - L1 CMI OPT/IM - L1 CMI IS
 
 Disponible :
 - `memoirevolatile.pde` : animation sous processing du principe de la mémoire volatile
