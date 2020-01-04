@@ -13,6 +13,8 @@ Disponible :
 Processing :
 >  https://processing.org/
 
+Logisim :
+> http://www.cburch.com/logisim/
+
 Assembleur/desassembleur 6502 :
 > https://www.masswerk.at/6502/
-
