@@ -18,3 +18,6 @@ Logisim :
 
 Assembleur/desassembleur 6502 :
 > https://www.masswerk.at/6502/
+
+Cours complet "Fonctionnement des ordinateurs (X12I020)" sur Madoc :
+> https://madoc.univ-nantes.fr/course/view.php?id=34503
