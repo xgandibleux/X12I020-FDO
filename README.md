@@ -3,7 +3,7 @@ Compléments au cours "Fonctionnement des ordinateurs" dispensé en L1 Info - L1
 
 Version étudiant des supports au CM :
 - mémoire : `FctOI-08-MemoiresSTUprint.pdf`
-- processeur
+- processeur : `FctOI-09-ProcesseurSTUprint.pdf`
 
 Disponible :
 - `memoirevolatile.pde` : animation sous processing du principe de la mémoire volatile
