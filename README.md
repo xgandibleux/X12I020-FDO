@@ -7,7 +7,7 @@ Supports à deux chapitres de CM en version étudiant :
 
 Disponible :
 - `memoirevolatile.pde` : animation sous processing du principe de la mémoire volatile
-- `exemple1.asm` : code 6502 de l'exemple traité en cours
+- `exemple1.asm` : code 6502 de l'exemple didactique traité en cours
 - `CLC_fetchDecodeExecute.pde` : animation sous processing du cycle fetch-decode-execute de l'instruction CLC
 
 Processing :
