@@ -1,7 +1,7 @@
 # Fonctionnement des ordinateurs
 Compléments au cours "Fonctionnement des ordinateurs" dispensé en L1 Info - L1 MathsInfo - L1 CMI OPT/IM - L1 CMI IS
 
-Version étudiant des supports au CM :
+Supports à deux chapitres de CM en version étudiant :
 - mémoire : `FctOI-08-MemoiresSTUprint.pdf`
 - processeur : `FctOI-09-ProcesseurSTUprint.pdf`
 
