@@ -10,9 +10,6 @@ Disponible :
 - `exemple1.asm` : code 6502 de l'exemple didactique traité en cours
 - `CLC_fetchDecodeExecute.pde` : animation sous processing du cycle fetch-decode-execute de l'instruction CLC
 
-Processing :
->  https://processing.org/
-
 Logisim :
 > http://www.cburch.com/logisim/
 
@@ -21,3 +18,6 @@ Assembleur/desassembleur 6502 :
 
 Cours complet "Fonctionnement des ordinateurs (X12I020)" sur Madoc :
 > https://madoc.univ-nantes.fr/course/view.php?id=34503
+
+Langage de programmation Processing :
+>  https://processing.org/
