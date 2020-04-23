@@ -35,7 +35,7 @@ Chapitre 8 : **programmation bas niveau**
 1. Assembleur et langage assembleur
 2. Langage assembleur 6502 et liens avec le langage C
 
-## Compléments :
+## Accompagnements :
 Chapitre 6 : **mémoire**
 - `memoirevolatile.pde` : animation sous processing du principe de la mémoire volatile
 
@@ -44,6 +44,7 @@ Chapitre 7 : **processeur**
 - `CLC_fetchDecodeExecute.pde` : animation sous processing du cycle fetch-decode-execute de l'instruction CLC
 
 ## Ressources : 
+- Livre de référence : [**Architecture et technologie des ordinateurs**](https://nantilus.univ-nantes.fr/vufind/Record/PPN233018999)
 - Logiciel [**Logisim** : http://www.cburch.com/logisim/](http://www.cburch.com/logisim/)
 - Logiciel [**Simulateur/Assembleur/Desassembleur 6502** : https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
 - Langage de programmation [**Processing** : https://processing.org/](https://processing.org/)
