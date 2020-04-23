@@ -1,10 +1,10 @@
 # Fonctionnement des ordinateurs
 Enseignement (20hCM + 16hTD) dispensé en Licence 1 aux parcours suivants : Info, MathsInfo, CMI OPT/IM, CMI IS.
+- Présentation : [**organisation et contenu**](../master/supportsCM/FctOI-0-organisationContenu.pdf)
 
 ## Supports
 Supports de CM 2019-2020 remis aux étudiants :
 
-- Présentation : [**organisation et contenu**](../master/supportsCM/FctOI-0-organisationContenu.pdf)
 - Chapitre 1 : [**introduction**](../master/supportsCM/FctOI-1-Introduction.pdf)
 - Chapitre 2 : [**système d'exploitation**](../master/supportsCM/FctOI-2-SysExp.pdf)
 - Chapitre 3 : [**commandes Unix**](../master/supportsCM/FctOI-3-Unix.pdf)
