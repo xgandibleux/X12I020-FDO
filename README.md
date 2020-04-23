@@ -4,7 +4,7 @@ Enseignement (20hCM + 16hTD) dispensé en Licence 1 aux parcours suivants : Info
 ## Supports
 Supports de CM 2019-2020 remis aux étudiants :
 
-- Présentation : [organisation et contenu : `FctOI-0-organisationContenu.pdf`](./blob/master/supportsCM/FctOI-0-organisationContenu.pdf)
+- Présentation : [organisation et contenu : `FctOI-0-organisationContenu.pdf`](../blob/master/supportsCM/FctOI-0-organisationContenu.pdf)
 - Chapitre 1 : introduction : `FctOI-1-Introduction.pdf`
 - Chapitre 2 : système d'exploitation : `FctOI-2-SysExp.pdf`
 - Chapitre 3 : commandes Unix : `FctOI-3-Unix.pdf`
