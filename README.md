@@ -1,7 +1,7 @@
 # Fonctionnement des ordinateurs
-Compléments au cours dispensé en Licence 1 (Info, MathsInfo, CMI OPT/IM, CMI IS)
+Cours dispensé en Licence 1 ( public : Info, MathsInfo, CMI OPT/IM, CMI IS)
 
-Organisation et Contenu du cours :
+Organisation et contenu du cours :
 - Présentation : `orgaFctOIAll.pdf`
 
 Supports de CM 2019-2020 en version étudiant :
@@ -14,19 +14,13 @@ Supports de CM 2019-2020 en version étudiant :
 - Chapitre 7 : processeur : `FctOI-7-Processeur.pdf`
 - Chapitre 8 : programmation bas niveau : `FctOI-8-Programmation.pdf`
 
-Disponible :
+Compléments :
 - `memoirevolatile.pde` : animation sous processing du principe de la mémoire volatile
 - `exemple1.asm` : code 6502 de l'exemple didactique traité en cours
 - `CLC_fetchDecodeExecute.pde` : animation sous processing du cycle fetch-decode-execute de l'instruction CLC
 
-Logisim :
-> http://www.cburch.com/logisim/
-
-Assembleur/desassembleur 6502 :
-> https://www.masswerk.at/6502/
-
-Cours complet "Fonctionnement des ordinateurs (X12I020)" sur Madoc :
-> https://madoc.univ-nantes.fr/course/view.php?id=34503
-
-Langage de programmation Processing :
->  https://processing.org/
+Ressources : 
+- Logiciel [Logisim : http://www.cburch.com/logisim/](http://www.cburch.com/logisim/)
+- Logiciel [Simulateur/Assembleur/Desassembleur 6502 : https://www.masswerk.at/6502/] (https://www.masswerk.at/6502/)
+- Langage de programmation [Processing : https://processing.org/](https://processing.org/)
+- Langage de programmation [Julia : https://julialang.org/](https://julialang.org/)
