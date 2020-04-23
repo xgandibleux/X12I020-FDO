@@ -2,7 +2,7 @@
 Cours dispensé en Licence 1 ( public : Info, MathsInfo, CMI OPT/IM, CMI IS)
 
 Organisation et contenu du cours :
-- Présentation : `orgaFctOIAll.pdf`
+- Présentation : `FctOI-0-organisationContenu.pdf`
 
 Supports de CM 2019-2020 en version étudiant :
 - Chapitre 1 : introduction : `FctOI-1-Introduction.pdf`
