@@ -31,12 +31,15 @@ Chapitre 7 : **processeur**
 6. Les ordinogrammes; le processeur 6502
 7. Prise en main de la "6502 reference card" (partie 2)
 
-Chapitre 8 : **programmation bas niveau*$
+Chapitre 8 : **programmation bas niveau**
 1. Assembleur et langage assembleur
 2. Langage assembleur 6502 et liens avec le langage C
 
 ## Compléments :
+Chapitre 6 : **mémoire**
 - `memoirevolatile.pde` : animation sous processing du principe de la mémoire volatile
+
+Chapitre 7 : **processeur**
 - `exemple1.asm` : code 6502 de l'exemple didactique traité en cours
 - `CLC_fetchDecodeExecute.pde` : animation sous processing du cycle fetch-decode-execute de l'instruction CLC
 
