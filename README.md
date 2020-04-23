@@ -20,7 +20,7 @@ Compléments :
 - `CLC_fetchDecodeExecute.pde` : animation sous processing du cycle fetch-decode-execute de l'instruction CLC
 
 Ressources : 
-- Logiciel [Logisim : http://www.cburch.com/logisim/](http://www.cburch.com/logisim/)
-- Logiciel [Simulateur/Assembleur/Desassembleur 6502 : https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
-- Langage de programmation [Processing : https://processing.org/](https://processing.org/)
-- Langage de programmation [Julia : https://julialang.org/](https://julialang.org/)
+- Logiciel [**Logisim** : http://www.cburch.com/logisim/](http://www.cburch.com/logisim/)
+- Logiciel [**Simulateur/Assembleur/Desassembleur 6502** : https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
+- Langage de programmation [**Processing** : https://processing.org/](https://processing.org/)
+- Langage de programmation [**Julia** : https://julialang.org/](https://julialang.org/)
