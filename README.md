@@ -39,7 +39,7 @@ Chapitre 8 : **programmation bas niveau**
 
 ## Accompagnements
 Chapitre 6 : **mémoire**
-- animation sous processing du principe de la mémoire volatile : `memoirevolatile.pde`
+- animation sous processing du principe de la mémoire volatile : [`memoirevolatile.pde`](https://github.com/xgandibleux/FctOrdinateurs/tree/master/accompagnements/memoirevolatile.pde)
 
 Chapitre 7 : **processeur**
 - code source 6502 de l'exemple didactique traité en cours : `exemple1.asm`
