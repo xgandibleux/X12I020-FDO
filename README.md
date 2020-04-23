@@ -42,7 +42,7 @@ Chapitre 6 : **mémoire**
 - animation sous processing du principe de la mémoire volatile : `memoirevolatile.pde`
 
 Chapitre 7 : **processeur**
-- code 6502 de l'exemple didactique traité en cours : `exemple1.asm`
+- code source 6502 de l'exemple didactique traité en cours : `exemple1.asm`
 - animation sous processing du cycle fetch-decode-execute de l'instruction CLC : `CLC_fetchDecodeExecute.pde`
 
 ## Ressources : 
