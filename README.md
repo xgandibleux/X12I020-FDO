@@ -19,21 +19,21 @@ Contenu élaboré artisanalement durant la période confinement :
 
 Chapitre 6 : **mémoire**
 1. [Rappel du principe de lecture/écriture dans une mémoire](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-1/)
-2. Big / small endian, caractéristiques, espace adressable
-3. Mémoire cache, mémoire d'appui, mémoire virtuelle
+2. [Big / small endian, caractéristiques, espace adressable](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-2/)
+3. [Mémoire cache, mémoire d'appui, mémoire virtuelle](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-3/)
 
 Chapitre 7 : **processeur**
-1. Examen détaillé de l'architecture de von Newmann
-2. Cycle Fetch-Decode-Execute et instructions de base
-3. Prise en main de la "6502 reference card" (partie 1)
-4. Modes d'adressage des données
-5. Modes d'adressage pour les branchements
-6. Les ordinogrammes; le processeur 6502
-7. Prise en main de la "6502 reference card" (partie 2)
+1. [Examen détaillé de l'architecture de von Newmann](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-4/)
+2. [Cycle Fetch-Decode-Execute et instructions de base](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-5/)
+3. [Prise en main de la "6502 reference card" (partie 1)](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-6/)
+4. [Modes d'adressage des données](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-7/)
+5. [Modes d'adressage pour les branchements](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-8/)
+6. [Les ordinogrammes; le processeur 6502](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-9/)
+7. [Prise en main de la "6502 reference card" (partie 2)](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-10/)
 
 Chapitre 8 : **programmation bas niveau**
-1. Assembleur et langage assembleur
-2. Langage assembleur 6502 et liens avec le langage C
+1. [Assembleur et langage assembleur](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-11/)
+2. [Langage assembleur 6502 et liens avec le langage C](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-12/)
 
 ## Accompagnements
 Chapitre 6 : **mémoire**
