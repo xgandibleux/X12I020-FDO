@@ -1,10 +1,18 @@
 # Fonctionnement des ordinateurs
-Compléments au cours "Fonctionnement des ordinateurs" dispensé en L1 (Info, MathsInfo, CMI OPT/IM, CMI IS)
+Compléments au cours dispensé en Licence 1 (Info, MathsInfo, CMI OPT/IM, CMI IS)
 
-Supports à trois chapitres de CM en version étudiant :
-- Chapitre VI : mémoire : `FctOI-06-Memoires.pdf`
-- Chapitre VII : processeur : `FctOI-07-Processeur.pdf`
-- Chapitre VIII : programmation bas niveau : `FctOI-8-Programmation.pdf`
+Organisation et Contenu du cours :
+- Présentation : `orgaFctOIAll.pdf`
+
+Supports de CM 2019-2020 en version étudiant :
+- Chapitre 1 : introduction : `FctOI-1-Introduction.pdf`
+- Chapitre 2 : système d'exploitation : `FctOI-2-SysExp.pdf`
+- Chapitre 3 : commandes Unix : `FctOI-3-Unix.pdf`
+- Chapitre 4 : fondements : `FctOI-4-Fondements.pdf`
+- Chapitre 5 : évolutions : `FctOI-5-Evolutions.pdf`
+- Chapitre 6 : mémoire : `FctOI-6-Memoires.pdf`
+- Chapitre 7 : processeur : `FctOI-7-Processeur.pdf`
+- Chapitre 8 : programmation bas niveau : `FctOI-8-Programmation.pdf`
 
 Disponible :
 - `memoirevolatile.pde` : animation sous processing du principe de la mémoire volatile
