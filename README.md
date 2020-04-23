@@ -1,9 +1,10 @@
 # Fonctionnement des ordinateurs
 Compléments au cours "Fonctionnement des ordinateurs" dispensé en L1 (Info, MathsInfo, CMI OPT/IM, CMI IS)
 
-Supports à deux chapitres de CM en version étudiant :
-- mémoire : `FctOI-08-MemoiresSTUprint.pdf`
-- processeur : `FctOI-09-ProcesseurSTUprint.pdf`
+Supports à trois chapitres de CM en version étudiant :
+- Chapitre VI : mémoire : `FctOI-06-Memoires.pdf`
+- Chapitre VII : processeur : `FctOI-07-Processeur.pdf`
+- Chapitre VIII : programmation bas niveau : `FctOI-8-Programmation.pdf`
 
 Disponible :
 - `memoirevolatile.pde` : animation sous processing du principe de la mémoire volatile
