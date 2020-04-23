@@ -2,7 +2,7 @@
 Enseignement (20hCM | 16hTD) dispensé en Licence 1 aux parcours suivants : Info, MathsInfo, CMI OPT/IM, CMI IS.
 
 ## Supports
-Matériel de CM 2019-2020 en version étudiant :
+Supports de CM 2019-2020 remis aux étudiants :
 
 - Présentation : organisation et contenu : `FctOI-0-organisationContenu.pdf`
 - Chapitre 1 : introduction : `FctOI-1-Introduction.pdf`
