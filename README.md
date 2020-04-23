@@ -38,14 +38,10 @@ Chapitre 8 : **programmation bas niveau**
 2. [Langage assembleur 6502 et liens avec le langage C](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-14/)
 
 ## Code source 6502
-Chapitre 7 : **processeur**
 -  Exemple didactique traité en cours : [`exemple1.asm`](https://github.com/xgandibleux/FctOrdinateurs/blob/master/codeSource/exemple1.asm)
 
 ## Accompagnements
-Chapitre 6 : **mémoire**
 - animation sous processing du principe de la mémoire volatile : [`memoirevolatile.pde`](https://github.com/xgandibleux/FctOrdinateurs/tree/master/accompagnements)
-
-Chapitre 7 : **processeur**
 - animation sous processing du cycle fetch-decode-execute de l'instruction CLC : [`CLC_fetchDecodeExecute.pde`](https://github.com/xgandibleux/FctOrdinateurs/tree/master/accompagnements)
 
 ## Ressources : 
