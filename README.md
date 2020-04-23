@@ -15,7 +15,7 @@ Matériel de CM 2019-2020 en version étudiant :
 - Chapitre 8 : programmation bas niveau : `FctOI-8-Programmation.pdf`
 
 ## Vidéos
-Contenu élaboré artisanalement durant la période confinement :
+Contenu élaboré artisanalement durant la période de confinement :
 
 Chapitre 6 : **mémoire**
 1. [Rappel du principe de lecture/écriture dans une mémoire](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-1/)
