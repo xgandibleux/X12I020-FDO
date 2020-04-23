@@ -1,6 +1,5 @@
 # Fonctionnement des ordinateurs
-Cours dispensé en Licence 1 (20hCM | 16hTD). 
-Public suivant l'enseignement : Info, MathsInfo, CMI OPT/IM, CMI IS.
+Enseignement (20hCM | 16hTD) dispensé en Licence 1 aux parcours suivants : Info, MathsInfo, CMI OPT/IM, CMI IS.
 
 ## Supports
 Matériel de CM 2019-2020 en version étudiant :
