@@ -4,15 +4,15 @@ Enseignement (20hCM + 16hTD) dispensé en Licence 1 aux parcours suivants : Info
 ## Supports
 Supports de CM 2019-2020 remis aux étudiants :
 
-- Présentation : [**organisation et contenu** : `FctOI-0-organisationContenu.pdf`](../master/supportsCM/FctOI-0-organisationContenu.pdf)
+- Présentation : [**organisation et contenu**](../master/supportsCM/FctOI-0-organisationContenu.pdf)
 - Chapitre 1 : [**introduction**](../master/supportsCM/FctOI-1-Introduction.pdf)
-- Chapitre 2 : système d'exploitation : `FctOI-2-SysExp.pdf`
-- Chapitre 3 : commandes Unix : `FctOI-3-Unix.pdf`
-- Chapitre 4 : fondements : `FctOI-4-Fondements.pdf`
-- Chapitre 5 : évolutions : `FctOI-5-Evolutions.pdf`
-- Chapitre 6 : mémoire : `FctOI-6-Memoires.pdf`
-- Chapitre 7 : processeur : `FctOI-7-Processeur.pdf`
-- Chapitre 8 : programmation bas niveau : `FctOI-8-Programmation.pdf`
+- Chapitre 2 : [**système d'exploitation**](../master/supportsCM/FctOI-2-SysExp.pdf)
+- Chapitre 3 : [**commandes Unix**](../master/supportsCM/FctOI-3-Unix.pdf)
+- Chapitre 4 : [**fondements**](../master/supportsCM/FctOI-4-Fondements.pdf)
+- Chapitre 5 : [**évolutions**](../master/supportsCM/FctOI-5-Evolutions.pdf)
+- Chapitre 6 : [**mémoire**](../master/supportsCM/FctOI-6-Memoires.pdf)
+- Chapitre 7 : [**processeur**](../master/supportsCM/FctOI-7-Processeur.pdf)
+- Chapitre 8 : [**programmation bas niveau**](../master/supportsCM/FctOI-8-Programmation.pdf)
 
 ## Vidéos
 Contenu élaboré artisanalement durant la période de confinement :
