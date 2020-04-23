@@ -18,7 +18,7 @@ Matériel de CM 2019-2020 en version étudiant :
 Contenu élaboré artisanalement durant la période confinement :
 
 Chapitre 6 : **mémoire**
-1. Rappel du principe de lecture/écriture dans une mémoire
+1. [Rappel du principe de lecture/écriture dans une mémoire](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-1/)
 2. Big / small endian, caractéristiques, espace adressable
 3. Mémoire cache, mémoire d'appui, mémoire virtuelle
 
