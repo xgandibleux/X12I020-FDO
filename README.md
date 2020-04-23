@@ -21,6 +21,7 @@ Mémoire :
 1. Rappel du principe de lecture/écriture dans une mémoire
 2. Big / small endian, caractéristiques, espace adressable
 3. Mémoire cache, mémoire d'appui, mémoire virtuelle
+
 Processeur :
 1. Examen détaillé de l'architecture de von Newmann
 2. Cycle Fetch-Decode-Execute et instructions de base
@@ -29,6 +30,7 @@ Processeur :
 5. Modes d'adressage pour les branchements
 6. Les ordinogrammes; le processeur 6502
 7. Prise en main de la "6502 reference card" (partie 2)
+
 Programmation bas niveau :
 1. Assembleur et langage assembleur
 2. Langage assembleur 6502 et liens avec le langage C
