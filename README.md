@@ -30,7 +30,7 @@ Chapitre 7 : **processeur**
 5. [Modes d'adressage pour les branchements](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-8/)
 6. [Les ordinogrammes; le processeur 6502](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-9/)
 7. [Prise en main de la "6502 reference card" (partie 2)](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-10/)
-8. [Présentation du Simulateur/Assembleur/Desassembleur 6502](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-11/)
+8. [Présentation de l'application Simulateur/Assembleur/Desassembleur 6502](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-11/)
 9. [Présentation de la platine clone KIM-1 disponible en 2020](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-12/)
 
 Chapitre 8 : **programmation bas niveau**
