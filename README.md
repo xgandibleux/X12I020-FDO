@@ -13,7 +13,7 @@ Supports de CM 2019-2020 remis aux étudiants :
 - Chapitre 3 : [**commandes Unix**](../master/supportsCM/FctOI-3-Unix.pdf)
 - Chapitre 4 : [**fondements**](../master/supportsCM/FctOI-4-Fondements.pdf)
 - Chapitre 5 : [**évolutions**](../master/supportsCM/FctOI-5-Evolutions.pdf)
-- Chapitre 6 : [**mémoire**](../master/supportsCM/FctOI-6-Memoires.pdf)
+- Chapitre 6 : [**mémoire**](../master/supportsCM/FctOI-6-Memoire.pdf)
 - Chapitre 7 : [**processeur**](../master/supportsCM/FctOI-7-Processeur.pdf)
 - Chapitre 8 : [**programmation bas niveau**](../master/supportsCM/FctOI-8-Programmation.pdf)
 
