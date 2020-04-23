@@ -44,8 +44,8 @@ Chapitre 8 : **programmation bas niveau**
 -  Exemple didactique traité en cours : [`exemple1.asm`](https://github.com/xgandibleux/FctOrdinateurs/blob/master/codeSource/exemple1.asm)
 
 ## Accompagnements
-- animation sous processing du principe de la mémoire volatile : [`memoirevolatile.pde`](https://github.com/xgandibleux/FctOrdinateurs/tree/master/accompagnements)
-- animation sous processing du cycle fetch-decode-execute de l'instruction CLC : [`CLC_fetchDecodeExecute.pde`](https://github.com/xgandibleux/FctOrdinateurs/tree/master/accompagnements)
+- Animation sous processing du principe de la mémoire volatile : [`memoirevolatile.pde`](https://github.com/xgandibleux/FctOrdinateurs/tree/master/accompagnements)
+- Animation sous processing du cycle fetch-decode-execute de l'instruction CLC : [`CLC_fetchDecodeExecute.pde`](https://github.com/xgandibleux/FctOrdinateurs/tree/master/accompagnements)
 
 ## Ressources : 
 - Livre de référence : [**Architecture et technologie des ordinateurs**](https://nantilus.univ-nantes.fr/vufind/Record/PPN233018999)
