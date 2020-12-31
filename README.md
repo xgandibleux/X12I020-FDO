@@ -1,4 +1,4 @@
-## FctOrdinateurs
+## Fonctionnement des ordinateurs
 Applications web support au cours "Fonctionnement des ordinateurs" dispensé en Licence 1 Maths-Info-Physique.
 
 
