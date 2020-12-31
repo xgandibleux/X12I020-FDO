@@ -25,7 +25,7 @@ Application web _Insight 6502_ qui matérialise graphiquement l'ensemble des op�
 
 ## Visual 6502
 
-Application web _Visual 6502 (https://www.masswerk.at/6502/)_ qui propose un simulateur, un assembleur, un desassembleur 6502 et une description des instructions.
+Application web _Visual 6502_ qui propose un simulateur, un assembleur, un desassembleur 6502 et une description des instructions.
 
 [Démarrer application](https://www.masswerk.at/6502/)
 
@@ -40,3 +40,7 @@ Application web _Visual 6502 (https://www.masswerk.at/6502/)_ qui propose un sim
 - Première mise en production des applications le 1er janvier 2021. 
 - Merci de nous rapporter bugs ou erreurs qui seraient rencontrés. 
 - Toute suggestion d'amélioration ainsi que toute contribution sont bienvenues.
+
+### Avertissement concernant l'application visual6502 :
+
+- Production disponible à l'adresse [https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
