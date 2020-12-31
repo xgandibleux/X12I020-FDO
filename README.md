@@ -1,7 +1,7 @@
 ## Applications web support au cours
 Applications web support au cours "Fonctionnement des ordinateurs" dispensé en Licence 1 Maths-Info-Physique.
 
-Site web : [https://xgandibleux.github.io/FctOrdinateurs/](https://xgandibleux.github.io/FctOrdinateurs/)
+Accéder aux applications : [https://xgandibleux.github.io/FctOrdinateurs/](https://xgandibleux.github.io/FctOrdinateurs/)
 
 Productions réalisées par [MaelRB](https://github.com/MaelRB) en stage d'été de licence 1 en 2020 et encadré par [XavierG](https://github.com/xgandibleux). 
 
