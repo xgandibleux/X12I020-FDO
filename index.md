@@ -36,5 +36,5 @@ Avertissement concernant les applications marquées par (*) :
 - L'ensemble est sous licence MIT.
 
 - Première mise en production des applications le 1er janvier 2021. 
-- Merci de nous indiquer bugs ou erreurs qui seraient rencontrés. 
-- Toute suggestion d'amélioration sont bienvenues ainsi que toute contribution.
+- Merci de nous rapporter bugs ou erreurs qui seraient rencontrés. 
+- Toute suggestion d'amélioration ainsi que toute contribution sont bienvenues.
