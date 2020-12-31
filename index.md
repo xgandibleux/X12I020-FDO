@@ -18,14 +18,14 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 [Démarrer application](https://xgandibleux.github.io/FctOrdinateurs/Memoire/index.html)
 
 
-## Opérations Fetch-Decode-Execute (*)
+## Insight 6502 : opérations Fetch-Decode-Execute (*)
 
-Application web _Insight 6502_ qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du 6502.
+Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du 6502.
 
 
-## Visual 6502
+## Visual 6502 : simulateur, assembleur, desassembleur
 
-Application web _Visual 6502_ qui propose un simulateur, un assembleur, un desassembleur 6502 et une description des instructions.
+Application web qui propose un simulateur, un assembleur, un desassembleur 6502 et une description des instructions.
 
 [Démarrer application](https://www.masswerk.at/6502/)
 
