@@ -3,7 +3,7 @@
 Application graphique de manipulation de représentations et de calculs sur des entiers :
 
 - Changer de base entre binaire, octal, décimal et hexadécimal pour un entier non-signé. 
-- Représenter des entiers signés en binaire ou en décimal avec la convention complément à 2 ou la valeur absolue. 
+- Représenter des entiers signés en binaire ou en décimal avec la convention _complément à 2_ ou la convention _valeur absolue_. 
 - Additionner des entiers binaires.
 
 
@@ -20,7 +20,7 @@ Application graphique réalisant l'ensemble des opérations du cycle fetch-decod
 
 ## Visual 6502
 
--  [**Simulateur/Assembleur/Desassembleur 6502** : https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
+- [**Simulateur/Assembleur/Desassembleur 6502** : https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
 
 
 (*) : applications réalisées lors du stage d'été de licence 1 en 2020 par [MaelRB](https://github.com/MaelRB) encadré par [XavierG](https://github.com/xgandibleux). Le langage utilisé est JavaScript. La partie graphique est réalisée avec la librairie p5.js
