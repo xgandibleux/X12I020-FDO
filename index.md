@@ -20,7 +20,7 @@ Outil graphique représentant l'ensemble des opérations du cycle fetch-decode-e
 -  [**Simulateur/Assembleur/Desassembleur 6502** : https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
 
 
-(*) : programmes réalisés lors du stage d'été de licence 1 en 2020 par [MaelRB](https://github.com/MaelRB) encadré par XavierG. Le langage utilisé est JavaScript. La partie graphique est réalisée avec la librairie p5.js
+(*) : programmes réalisés lors du stage d'été de licence 1 en 2020 par [MaelRB](https://github.com/MaelRB) encadré par [XavierG](https://github.com/xgandibleux). Le langage utilisé est JavaScript. La partie graphique est réalisée avec la librairie p5.js
 
 
 ## Welcome to GitHub Pages
