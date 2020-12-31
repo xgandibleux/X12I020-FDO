@@ -1,21 +1,21 @@
 ## Binaire, octal, décimal, hexadécimal (*)
 
-Application graphique de manipulation de représentations et de calculs sur des entiers:
+Application graphique de manipulation de représentations et de calculs sur des entiers :
 
-- Changer de base pour un entier non-signé entre binaire, octal, décimal et hexadécimal. 
+- Changer de base entre binaire, octal, décimal et hexadécimal pour un entier non-signé. 
 - Représenter des entiers signés en binaire ou en décimal avec la convention complément à 2 ou la valeur absolue. 
 - Additionner des entiers binaires.
 
 
-## Mémoire (*)
+## Mémoire 8 bits (*)
 
-Application graphique de lecture et d'écriture dans une mémoire sur 8 bits, ayant pour plage d'adresse `0x00` à `0x7F`. 
+Application graphique de lecture et d'écriture dans une mémoire 8 bits, ayant pour plage d'adresse `0x00` à `0x7F`. 
 L'interaction avec la memoire se fait via les buffers d'adresses, de données et de contrôle.
 
 
 ## Insight 6502  (*)
 
-Application graphique représentant l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
+Application graphique réalisant l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
 
 
 ## Visual 6502
