@@ -28,4 +28,13 @@ Application graphique _Insight 6502_ réalise l'ensemble des opérations du cycl
 - [**Simulateur/Assembleur/Desassembleur 6502** : https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
 
 
-(*) : applications réalisées lors du stage d'été de licence 1 en 2020 par [MaelRB](https://github.com/MaelRB) encadré par [XavierG](https://github.com/xgandibleux). Le langage utilisé est JavaScript. La partie graphique est réalisée avec la librairie p5.js
+
+Avertissement concernant les applications marquées par (*) : 
+
+- Productions réalisées par [MaelRB](https://github.com/MaelRB) en stage d'été de licence 1 en 2020 et encadré par [XavierG](https://github.com/xgandibleux). 
+- Le langage utilisé est JavaScript, la partie graphique est réalisée avec la librairie p5.js.
+- L'ensemble est sous licence MIT.
+
+- Première mise en production des applications le 1er janvier 2021. 
+- Merci de nous indiquer bugs ou erreurs qui seraient rencontrés. 
+- Toute suggestion d'amélioration sont bienvenues ainsi que toute contribution.
