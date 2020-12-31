@@ -20,7 +20,7 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 ## Opérations Fetch-Decode-Execute (*)
 
-Application web _Insight 6502_ qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
+Application web _Insight 6502_ qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du 6502.
 
 
 ## Visual 6502
