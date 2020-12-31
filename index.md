@@ -6,6 +6,7 @@ Application web de représentations et de calculs sur des entiers :
 - Représenter des entiers signés selon la convention _complément à 2_ ou la convention _valeur absolue_. 
 - Additionner en binaire des entiers non-signés ou signés.
 
+***
 
 ## Opérations sur une mémoire 8 bits (*)
 
@@ -17,11 +18,13 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 [Démarrer application](https://xgandibleux.github.io/FctOrdinateurs/Memoire/index.html)
 
+***
 
 ## Insight 6502 : opérations Fetch-Decode-Execute (*)
 
 Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
 
+***
 
 ## Visual 6502 : simulateur, assembleur, desassembleur
 
