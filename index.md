@@ -3,7 +3,7 @@
 Application graphique de représentations et de calculs sur des entiers :
 
 - Changer de base entre binaire, octal, décimal et hexadécimal pour un entier non-signé. 
-- Représenter des entiers signés en binaire ou en décimal avec la convention _complément à 2_ ou la convention _valeur absolue_. 
+- Représenter des entiers signés selon la convention _complément à 2_ ou la convention _valeur absolue_. 
 - Additionner des entiers binaires.
 
 
