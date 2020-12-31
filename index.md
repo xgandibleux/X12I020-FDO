@@ -20,12 +20,12 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 ## Insight 6502 : opérations Fetch-Decode-Execute (*)
 
-Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du 6502.
+Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
 
 
 ## Visual 6502 : simulateur, assembleur, desassembleur
 
-Application web qui propose un simulateur, un assembleur, un desassembleur 6502 et une description des instructions.
+Application web qui propose un simulateur, un assembleur, un desassembleur 6502 ainsi qu'une description des instructions du processeur.
 
 [Démarrer application](https://www.masswerk.at/6502/)
 
