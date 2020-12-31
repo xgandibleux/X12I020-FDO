@@ -1,4 +1,4 @@
-## Binaire, octal, décimal, hexadécimal (*)
+## Opérations sur des entiers (*)
 
 Application graphique de représentations et de calculs sur des entiers :
 
@@ -18,9 +18,9 @@ Application graphique de lecture et d'écriture dans une mémoire 8 bits, ayant 
 [Démarrer application](https://xgandibleux.github.io/FctOrdinateurs/Memoire/index.html)
 
 
-## Insight 6502  (*)
+## Opérations Fetch-Decode-Execute (*)
 
-Application graphique réalisant l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
+Application graphique _Insight 6502_ réalise l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
 
 
 ## Visual 6502
