@@ -12,7 +12,7 @@ Application graphique de représentations et de calculs sur des entiers :
 Application graphique de lecture et d'écriture dans une mémoire 8 bits, ayant pour plage d'adresse `0x00` à `0x7F`. 
 L'interaction avec la memoire se fait via les buffers d'adresses, de données et de contrôle.
 
-[appl](https://xgandibleux.github.io/FctOrdinateurs/Memoire/index.html)
+[Démarrer application](https://xgandibleux.github.io/FctOrdinateurs/Memoire/index.html)
 
 
 ## Insight 6502  (*)
