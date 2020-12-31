@@ -30,7 +30,7 @@ Application web qui matérialise graphiquement l'ensemble des opérations du cyc
 - Tous les modes d'adressages du processeur sont implémentés.
 - Exécution pas à pas ou par cycle d'instruction.
 
-[Démarrer application](https://xgandibleux.github.io/FctOrdinateurs/FDE/index.html)
+[Démarrer application](https://xgandibleux.github.io/FctOrdinateurs/Insight6502/index.html)
 
 ***
 
