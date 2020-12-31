@@ -1,4 +1,4 @@
-## Opérations sur des entiers (*)
+# Opérations sur des entiers (*)
 
 Application web de représentations et de calculs sur des entiers :
 
@@ -10,7 +10,7 @@ Application web de représentations et de calculs sur des entiers :
 
 ***
 
-## Opérations sur une mémoire 8 bits (*)
+# Opérations sur une mémoire 8 bits (*)
 
 Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour plage d'adresse `0x00` à `0x7F` :
 
@@ -22,7 +22,7 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 ***
 
-## Insight 6502 : opérations Fetch-Decode-Execute (*)
+# Insight 6502 : opérations Fetch-Decode-Execute (*)
 
 Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
 
@@ -34,7 +34,7 @@ Application web qui matérialise graphiquement l'ensemble des opérations du cyc
 
 ***
 
-## Visual 6502 : simulateur, assembleur, desassembleur
+# Visual 6502 : simulateur, assembleur, desassembleur
 
 Application web qui propose un simulateur, un assembleur, un desassembleur 6502 ainsi qu'une description de l'ensemble des instructions du processeur.
 
@@ -42,7 +42,9 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 
 ***
 
-### Avertissement concernant les applications marquées par (*) : 
+## Avertissement 
+
+### concernant les applications marquées par (*) : 
 
 - Productions réalisées par [MaelRB](https://github.com/MaelRB) en stage d'été de licence 1 en 2020 et encadré par [XavierG](https://github.com/xgandibleux). 
 - Le langage utilisé est JavaScript, la partie graphique est réalisée avec la librairie p5.js.
@@ -52,6 +54,6 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 - Merci de nous rapporter bugs ou erreurs qui seraient rencontrés. 
 - Toute suggestion d'amélioration ainsi que toute contribution sont bienvenues.
 
-### Avertissement concernant l'application visual6502 :
+### concernant l'application visual6502 :
 
 - Production disponible à l'adresse [https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
