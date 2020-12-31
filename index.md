@@ -24,6 +24,12 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
 
+- 95% des instructions du 6502 sont implémentées (seules les instructions relatives aux interruptions ne sont pas implémentées).
+- Tous les modes d'adressages sont implémentés.
+- Exécution pas à pas ou par cycle d'instruction.
+
+[Démarrer application](https://xgandibleux.github.io/FctOrdinateurs/FDE/index.html)
+
 ***
 
 ## Visual 6502 : simulateur, assembleur, desassembleur
