@@ -25,7 +25,7 @@ Application web qui matérialise graphiquement l'ensemble des opérations du cyc
 
 ## Visual 6502 : simulateur, assembleur, desassembleur
 
-Application web qui propose un simulateur, un assembleur, un desassembleur 6502 ainsi qu'une description des instructions du processeur.
+Application web qui propose un simulateur, un assembleur, un desassembleur 6502 ainsi qu'une description de l'ensemble des instructions du processeur.
 
 [Démarrer application](https://www.masswerk.at/6502/)
 
