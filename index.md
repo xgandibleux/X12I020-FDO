@@ -10,6 +10,8 @@ Application graphique de représentations et de calculs sur des entiers :
 ## Opérations sur une mémoire 8 bits (*)
 
 Application graphique de lecture et d'écriture dans une mémoire 8 bits, ayant pour plage d'adresse `0x00` à `0x7F`. 
+
+- Informations exprimées en hexadécimal.
 - Interaction avec la memoire se fait via les buffers d'adresses, de données et de contrôle.
 - Interprétation de l'information présente dans le buffer de données.
 
