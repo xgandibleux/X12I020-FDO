@@ -6,6 +6,8 @@ Application web de représentations et de calculs sur des entiers :
 - Représenter des entiers signés selon la convention _complément à 2_ ou la convention _valeur absolue_. 
 - Additionner en binaire des entiers non-signés ou signés.
 
+[Démarrer application](https://xgandibleux.github.io/FctOrdinateurs/Converter/index.html)
+
 ***
 
 ## Opérations sur une mémoire 8 bits (*)
