@@ -1,7 +1,7 @@
 <a id="appEntiers"></a>
-# Opérations sur des entiers (*)
+# Opérations sur les entiers (*)
 
-Application web de représentations et de calculs sur des entiers :
+Application web de représentations et de calculs sur les entiers :
 
 - Exprimer un entier non-signé en binaire, octal, décimal et hexadécimal. 
 - Représenter des entiers signés soit en _complément à 2_ soit en _bit de signe & valeur absolue_. 
