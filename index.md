@@ -1,3 +1,4 @@
+<a id="appEntiers"></a>
 # Opérations sur des entiers (*)
 
 Application web de représentations et de calculs sur des entiers :
@@ -10,6 +11,7 @@ Application web de représentations et de calculs sur des entiers :
 
 ***
 
+<a id="appMemoire"></a>
 # Opérations sur une mémoire 8 bits (*)
 
 Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour plage d'adresse `0x00` à `0x7F` :
@@ -22,6 +24,7 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 ***
 
+<a id="appInsight6502"></a>
 # Insight 6502 : opérations Fetch-Decode-Execute (*)
 
 Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
@@ -38,6 +41,7 @@ Notes :
 
 ***
 
+<a id="appVisual6502"></a>
 # Visual 6502 : simulateur, assembleur, desassembleur
 
 Application web qui propose un simulateur, un assembleur, un desassembleur 6502 ainsi qu'une description de l'ensemble des instructions du processeur.
