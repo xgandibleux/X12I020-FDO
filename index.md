@@ -47,6 +47,7 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 - Assemblage/desassemblage d'un programme en langage machine depuis le langage assembleur.
 
 [Démarrer application (2016)](https://www.masswerk.at/6502/)
+
 [Vidéo de présentation (printemps 2020)](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-11/)
 
 ***
@@ -56,9 +57,9 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 
 ### Concernant les applications marquées par (*) : 
 
-- Productions réalisées par [MaelRB](https://github.com/MaelRB) en stage d'été de licence 1 en 2020 et encadré par [XavierG](https://github.com/xgandibleux) et distribué sous licence MIT.
+- Productions réalisées par [MaelRB](https://github.com/MaelRB) en stage d'été de licence 1 en 2020 et encadré par [XavierG](https://github.com/xgandibleux).
 - Le langage utilisé est JavaScript, la partie graphique est réalisée avec la librairie p5.js.
-- L'ensemble est réalisé sous [licence MIT](https://en.wikipedia.org/wiki/MIT_License).
+- L'ensemble est distribué sous [licence MIT](https://en.wikipedia.org/wiki/MIT_License).
 
 - Première mise en production des applications le 1er janvier 2021. 
 - Merci de nous rapporter bugs ou erreurs qui seraient rencontrés. 
@@ -66,5 +67,6 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 
 ### Concernant l'application visual6502 :
 
-- Réalisé par Norbert Landsteiner (2005,2016) et distribué sous licence GPL.
+- Réalisé par Norbert Landsteiner (2005, 2016).
+- L'ensemble est distribué sous licence GPL.
 - Application hébergée par l'auteur à l'adresse [https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
