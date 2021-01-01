@@ -26,7 +26,7 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
 
-- Chargement de la mémoire sur la plage d'adresse `0x00` à `0x7F` avec un programme donné en langage machine 6502.
+- Chargement de la mémoire sur la plage d'adresse `0x0000` à `0xFFFF` avec un programme donné en langage machine.
 - Affectation des valeurs hexadécimales aux registres A, X, Y et PC.
 - Exécution d'un programme en mémoire pas à pas ou par cycle déterminant l'instruction en exécution.
 
