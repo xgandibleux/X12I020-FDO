@@ -35,9 +35,9 @@ Application web qui matérialise graphiquement l'ensemble des opérations du cyc
 
 [Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Insight6502/index.html)
 
-Notes :
-- 95% des instructions du 6502 implémentées (seules les instructions relatives aux interruptions ne sont pas implémentées).
-- Tous les modes d'adressages du processeur sont implémentés.
+Remarques :
+- L'ensemble des modes d'adressages du processeur sont implémentés.
+- 95% des instructions du 6502 sont disponibles (seules les instructions relatives aux interruptions ne sont pas implémentées).
 
 ***
 
