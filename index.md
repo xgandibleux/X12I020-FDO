@@ -7,7 +7,7 @@ Application web de représentations et de calculs sur des entiers :
 - Représenter des entiers signés selon la convention _complément à 2_ ou _bit de signe & valeur absolue_. 
 - Additionner en binaire des entiers non-signés ou signés.
 
-[Démarrer application (v1.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Converter/index.html)
+[Aller à l'application (v1.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Converter/index.html)
 
 ***
 
@@ -20,7 +20,7 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 - Interaction avec la memoire se fait via les buffers d'adresses, de données et de contrôle.
 - Interprétation de l'information présente dans le buffer de données lors de l'écriture en mémoire.
 
-[Démarrer application (v1.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Memoire/index.html)
+[Aller à l'application (v1.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Memoire/index.html)
 
 ***
 
@@ -33,7 +33,7 @@ Application web qui matérialise graphiquement l'ensemble des opérations du cyc
 - Affectation de valeurs hexadécimales aux registres A, X, Y et PC.
 - Exécution d'un programme en mémoire pas à pas ou par cycle déterminant l'instruction en exécution.
 
-[Démarrer application (v1.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Insight6502/index.html)
+[Aller à l'application (v1.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Insight6502/index.html)
 
 Notes :
 - 95% des instructions du 6502 implémentées (seules les instructions relatives aux interruptions ne sont pas implémentées).
@@ -50,9 +50,9 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 - Affectation des valeurs hexadécimales aux registres A, X, Y et PC.
 - Assemblage/desassemblage d'un programme en langage machine depuis le langage assembleur.
 
-[Démarrer application (2016)](https://www.masswerk.at/6502/)
+[Aller à l'application (ver. 2016)](https://www.masswerk.at/6502/)
 
-[Vidéo de présentation (printemps 2020)](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-11/)
+[Vidéo de présentation (ver. 2020)](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-11/)
 
 ***
 ***
