@@ -24,8 +24,8 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 ***
 
-<a id="appInsight6502"></a>
-# Insight 6502 : opérations Fetch-Decode-Execute (*)
+<a id="appInside6502"></a>
+# Inside 6502 : opérations Fetch-Decode-Execute (*)
 
 Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502. Elle permet de lancer du code sur le processeur et de voir le cheminement des informations dans l'architecture.
 
