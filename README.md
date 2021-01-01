@@ -48,6 +48,6 @@ Chapitre 8 : **programmation bas niveau**
 - [Visual 6502 : simulateur, assembleur, desassembleur](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appVisual6502)
 
 ## Ressources : 
-- Livre de référence : [**Architecture et technologie des ordinateurs**](https://nantilus.univ-nantes.fr/vufind/Record/PPN233018999)
+- Livre de référence : [**Architecture et technologie des ordinateurs**](https://nantilus.univ-nantes.fr/vufind/Record/PPN230056938)
 - Page des [**Applications web support au cours** :  https://xgandibleux.github.io/FctOrdinateurs/]( https://xgandibleux.github.io/FctOrdinateurs/)
 - Logiciel [**Logisim** : http://www.cburch.com/logisim/](http://www.cburch.com/logisim/)
