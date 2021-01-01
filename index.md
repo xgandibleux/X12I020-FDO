@@ -33,7 +33,7 @@ Application web qui matérialise graphiquement l'ensemble des opérations du cyc
 - Affectation de valeurs hexadécimales aux registres A, X, Y et PC.
 - Exécution d'un programme en mémoire pas à pas ou par cycle déterminant l'instruction en exécution.
 
-[Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Insight6502/index.html)
+[Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Inside6502/index.html)
 
 Remarques :
 - L'ensemble des modes d'adressages du processeur sont implémentés.
@@ -72,7 +72,7 @@ Notes :
 - Toute suggestion d'amélioration ainsi que toute contribution sont bienvenues.
 
 Remerciements :
-- Peter Higginson, pour les discussions tenues en amont du développement de Insight 6502.
+- Peter Higginson, pour les discussions tenues en amont du développement de Inside 6502.
 
 ### Concernant l'application Virtual 6502 :
 
