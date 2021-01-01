@@ -69,7 +69,7 @@ Notes :
 
 ### Concernant l'application visual6502 :
 
-- Application réalisée par Norbert Landsteiner (2005, 2016).
-- L'ensemble est distribué sous licence GPL.
-- Application hébergée par l'auteur à l'adresse [https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
+- Réalisée par Norbert Landsteiner (2005, 2016).
+- Distribué sous [licence GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License).
+- Hébergée par l'auteur à l'URL suivante : [https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
 
