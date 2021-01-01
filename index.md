@@ -26,7 +26,7 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
 
-- Chargement de la mémoire avec un programme donné en op-code 6502.
+- Chargement de la mémoire avec un programme donné en langage machine 6502.
 - Affectation des valeurs hexadécimales aux registres A, X, Y et PC.
 - Exécution pas à pas ou par cycle déterminant l'instruction en exécution.
 
@@ -42,6 +42,10 @@ Note :
 
 Application web qui propose un simulateur, un assembleur, un desassembleur 6502 ainsi qu'une description de l'ensemble des instructions du processeur.
 
+- Chargement de la mémoire avec un programme donné en op-code 6502.
+- Affectation des valeurs hexadécimales aux registres A, X, Y et PC.
+- Assemblage/desassemblage d'un programme en langage machine depuis le langage assembleur.
+
 [Démarrer application](https://www.masswerk.at/6502/)
 
 ***
@@ -49,7 +53,7 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 
 ## Avertissement 
 
-### concernant les applications marquées par (*) : 
+### Concernant les applications marquées par (*) : 
 
 - Productions réalisées par [MaelRB](https://github.com/MaelRB) en stage d'été de licence 1 en 2020 et encadré par [XavierG](https://github.com/xgandibleux). 
 - Le langage utilisé est JavaScript, la partie graphique est réalisée avec la librairie p5.js.
@@ -59,6 +63,6 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 - Merci de nous rapporter bugs ou erreurs qui seraient rencontrés. 
 - Toute suggestion d'amélioration ainsi que toute contribution sont bienvenues.
 
-### concernant l'application visual6502 :
+### Concernant l'application visual6502 :
 
 - Production disponible à l'adresse [https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
