@@ -71,7 +71,7 @@ Notes :
 - Merci de nous rapporter bugs ou erreurs qui seraient rencontrés. 
 - Toute suggestion d'amélioration ainsi que toute contribution sont bienvenues.
 
-### Concernant l'application visual6502 :
+### Concernant l'application Virtual 6502 :
 
 - Réalisée par Norbert Landsteiner (2005, 2016).
 - Distribué sous [licence GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License).
