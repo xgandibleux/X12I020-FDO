@@ -4,7 +4,7 @@
 Application web de représentations et de calculs sur des entiers :
 
 - Exprimer un entier non-signé en binaire, octal, décimal et hexadécimal. 
-- Représenter des entiers signés selon la convention _complément à 2_ ou _bit de signe & valeur absolue_. 
+- Représenter des entiers signés soit en _complément à 2_ soit en _bit de signe & valeur absolue_. 
 - Additionner en binaire des entiers non-signés ou signés.
 
 [Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Converter/index.html)
