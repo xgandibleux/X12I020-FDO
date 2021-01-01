@@ -1,6 +1,6 @@
 # Inside 6502 
 
-## Exemple 1
+## Exemple
 
 Soit le programme suivant composé de 3 instructions :
 
