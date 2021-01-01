@@ -48,9 +48,9 @@ Chapitre 8 : **programmation bas niveau**
 -  Exemple didactique traité en cours : [`exemple1.asm`](https://github.com/xgandibleux/FctOrdinateurs/blob/master/codeSource/exemple1.asm)
 
 ## Applications web support au cours
-- [Opérations sur des entiers](https://xgandibleux.github.io/FctOrdinateurs#appEntiers)
-- [Opérations sur une mémoire 8 bits](https://xgandibleux.github.io/FctOrdinateurs#appMemoire)
-- [Insight 6502 : opérations Fetch-Decode-Execute](https://xgandibleux.github.io/FctOrdinateurs#appInsight6502)
+- [Opérations sur des entiers](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appEntiers)
+- [Opérations sur une mémoire 8 bits](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appMemoire)
+- [Insight 6502 : opérations Fetch-Decode-Execute](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appInsight6502)
 - [Visual 6502 : simulateur, assembleur, desassembleur](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appVisual6502)
 
 ## Ressources : 
