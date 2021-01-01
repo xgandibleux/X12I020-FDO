@@ -26,8 +26,8 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 Application web qui matérialise graphiquement l'ensemble des opérations du cycle fetch-decode-execute du processeur 6502.
 
-- Chargement de la mémoire sur la plage d'adresse `0x0000` à `0xFFFF` avec un programme donné en langage machine.
-- Affectation des valeurs hexadécimales aux registres A, X, Y et PC.
+- Chargement de la mémoire sur `0x0000` à `0xFFFF` avec des données en hexadécimal et un programme en langage machine.
+- Affectation de valeurs hexadécimales aux registres A, X, Y et PC.
 - Exécution d'un programme en mémoire pas à pas ou par cycle déterminant l'instruction en exécution.
 
 [Démarrer application (v1.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Insight6502/index.html)
