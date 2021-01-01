@@ -8,7 +8,7 @@ Enseignement (20hCM + 16hTD) dispensé en Licence 1 aux parcours suivants : Info
 ## Supports
 Supports de CM 2020-2021 remis aux étudiants :
 
-- ASAP
+- Ils arrivent bientôt...
 
 Supports de CM 2019-2020 remis aux étudiants :
 
@@ -57,5 +57,3 @@ Chapitre 8 : **programmation bas niveau**
 - Livre de référence : [**Architecture et technologie des ordinateurs**](https://nantilus.univ-nantes.fr/vufind/Record/PPN233018999)
 - Page des [**Applications web support au cours** :  https://xgandibleux.github.io/FctOrdinateurs/]( https://xgandibleux.github.io/FctOrdinateurs/)
 - Logiciel [**Logisim** : http://www.cburch.com/logisim/](http://www.cburch.com/logisim/)
-- Logiciel [**Simulateur/Assembleur/Desassembleur 6502** : https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
-
