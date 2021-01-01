@@ -6,6 +6,10 @@ Enseignement (20hCM + 16hTD) dispensé en Licence 1 aux parcours suivants : Info
 - Présentation : [**organisation et contenu**](../master/supportsCM/FctOI-0-organisationContenu.pdf)
 
 ## Supports
+Supports de CM 2020-2021 remis aux étudiants :
+
+- ASAP
+
 Supports de CM 2019-2020 remis aux étudiants :
 
 - Chapitre 1 : [**introduction**](../master/supportsCM/FctOI-1-Introduction.pdf)
@@ -18,7 +22,7 @@ Supports de CM 2019-2020 remis aux étudiants :
 - Chapitre 8 : [**programmation bas niveau**](../master/supportsCM/FctOI-8-Programmation.pdf)
 
 ## Vidéos
-Contenu élaboré artisanalement durant la période de confinement :
+Contenu élaboré artisanalement durant la période de confinement mars-mai 2020 :
 
 Chapitre 6 : **mémoire**
 1. [Rappel du principe de lecture/écriture dans une mémoire](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-1/)
@@ -43,14 +47,15 @@ Chapitre 8 : **programmation bas niveau**
 ## Code source 6502
 -  Exemple didactique traité en cours : [`exemple1.asm`](https://github.com/xgandibleux/FctOrdinateurs/blob/master/codeSource/exemple1.asm)
 
-## Accompagnements
-- Animation sous processing du principe de la mémoire volatile : [`memoirevolatile.pde`](https://github.com/xgandibleux/FctOrdinateurs/tree/master/accompagnements)
-- Animation sous processing du cycle fetch-decode-execute de l'instruction CLC : [`CLC_fetchDecodeExecute.pde`](https://github.com/xgandibleux/FctOrdinateurs/tree/master/accompagnements)
+## Applications web support au cours
+- Opérations sur des [entiers](https://xgandibleux.github.io/FctOrdinateurs/#appEntiers)
+- Opérations sur une [mémoire 8 bits](https://xgandibleux.github.io/FctOrdinateurs/#appMemoire)
+- Insight 6502 : opérations [Fetch-Decode-Execute](https://xgandibleux.github.io/FctOrdinateurs/#appInsight6502)
+- Visual 6502 : [simulateur, assembleur, desassembleur](https://xgandibleux.github.io/FctOrdinateurs/#appVisual6502)
 
 ## Ressources : 
 - Livre de référence : [**Architecture et technologie des ordinateurs**](https://nantilus.univ-nantes.fr/vufind/Record/PPN233018999)
+- Page des [**Applications web support au cours** :  https://xgandibleux.github.io/FctOrdinateurs/]( https://xgandibleux.github.io/FctOrdinateurs/)
 - Logiciel [**Logisim** : http://www.cburch.com/logisim/](http://www.cburch.com/logisim/)
 - Logiciel [**Simulateur/Assembleur/Desassembleur 6502** : https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
-- Langage de programmation [**Processing** : https://processing.org/](https://processing.org/)
-- Langage de programmation [**Julia** : https://julialang.org/](https://julialang.org/)
 
