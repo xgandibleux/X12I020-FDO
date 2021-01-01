@@ -8,18 +8,12 @@ Enseignement (20hCM + 16hTD) dispensé en Licence 1 aux parcours suivants : Info
 ## Supports
 Supports de CM 2020-2021 remis aux étudiants :
 
-- Ils arrivent bientôt...
+- Refactoring du cours pour le mettre en phase avec un enseignement mi-présentiel, mi-distantiel; ils arrivent bientôt...
 
 Supports de CM 2019-2020 remis aux étudiants :
 
-- Chapitre 1 : [**introduction**](../master/supportsCM/FctOI-1-Introduction.pdf)
-- Chapitre 2 : [**système d'exploitation**](../master/supportsCM/FctOI-2-SysExp.pdf)
-- Chapitre 3 : [**commandes Unix**](../master/supportsCM/FctOI-3-Unix.pdf)
-- Chapitre 4 : [**fondements**](../master/supportsCM/FctOI-4-Fondements.pdf)
-- Chapitre 5 : [**évolutions**](../master/supportsCM/FctOI-5-Evolutions.pdf)
-- Chapitre 6 : [**mémoire**](../master/supportsCM/FctOI-6-Memoire.pdf)
-- Chapitre 7 : [**processeur**](../master/supportsCM/FctOI-7-Processeur.pdf)
-- Chapitre 8 : [**programmation bas niveau**](../master/supportsCM/FctOI-8-Programmation.pdf)
+- [Chapitres 1 à 8](../master/supportsCM/)
+
 
 ## Vidéos
 Contenu élaboré artisanalement durant la période de confinement mars-mai 2020 :
