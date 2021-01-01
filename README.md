@@ -1,5 +1,5 @@
 ## Applications web support au cours
-Applications support au cours "Fonctionnement des ordinateurs" dispensé en Licence 1 Maths-Info-Physique.
+Applications support au cours "Fonctionnement des ordinateurs".
 
 Aller à  [https://xgandibleux.github.io/FctOrdinateurs/](https://xgandibleux.github.io/FctOrdinateurs/)
 
