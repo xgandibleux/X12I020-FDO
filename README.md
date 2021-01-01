@@ -44,7 +44,7 @@ Chapitre 8 : **programmation bas niveau**
 ## Applications web support au cours
 - [Opérations sur les entiers](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appEntiers)
 - [Opérations sur une mémoire 8 bits](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appMemoire)
-- [Insight 6502 : opérations Fetch-Decode-Execute](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appInsight6502)
+- [Inside 6502 : opérations Fetch-Decode-Execute](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appInside6502)
 - [Virtual 6502 : simulateur, assembleur, desassembleur](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appVirtual6502)
 
 ## Ressources : 
