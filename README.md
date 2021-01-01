@@ -8,7 +8,7 @@ Enseignement (20hCM + 16hTD) dispensé en Licence 1 aux parcours suivants : Info
 ## Supports
 Supports de CM 2020-2021 remis aux étudiants :
 
-- Refactoring du cours pour le mettre en phase avec un enseignement mi-présentiel, mi-distantiel; ils arrivent bientôt...
+- Refactoring du cours pour le mettre en phase avec un enseignement mi-présentiel, mi-distantiel; les supports 2020-2021 arrivent bientôt...
 
 Supports de CM 2019-2020 remis aux étudiants :
 
