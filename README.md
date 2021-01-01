@@ -51,7 +51,7 @@ Chapitre 8 : **programmation bas niveau**
 - [Opérations sur des entiers](https://xgandibleux.github.io/FctOrdinateurs#appEntiers)
 - [Opérations sur une mémoire 8 bits](https://xgandibleux.github.io/FctOrdinateurs#appMemoire)
 - [Insight 6502 : opérations Fetch-Decode-Execute](https://xgandibleux.github.io/FctOrdinateurs#appInsight6502)
-- [Visual 6502 : simulateur, assembleur, desassembleur](https://xgandibleux.github.io/FctOrdinateurs#appVisual6502)
+- [Visual 6502 : simulateur, assembleur, desassembleur](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appVisual6502)
 
 ## Ressources : 
 - Livre de référence : [**Architecture et technologie des ordinateurs**](https://nantilus.univ-nantes.fr/vufind/Record/PPN233018999)
