@@ -16,7 +16,7 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 
 - Informations exprimées en hexadécimal.
 - Interaction avec la memoire se fait via les buffers d'adresses, de données et de contrôle.
-- Interprétation de l'information présente dans le buffer de données.
+- Interprétation de l'information présente dans le buffer de données lors de l'écriture en mémoire.
 
 [Démarrer application](https://xgandibleux.github.io/FctOrdinateurs/Memoire/index.html)
 
