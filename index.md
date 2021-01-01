@@ -71,6 +71,9 @@ Notes :
 - Merci de nous rapporter bugs ou erreurs qui seraient rencontrés. 
 - Toute suggestion d'amélioration ainsi que toute contribution sont bienvenues.
 
+Remerciements :
+- Peter Higginson, pour les discussions tenues en amont du développement de Insight 6502.
+
 ### Concernant l'application Virtual 6502 :
 
 - Réalisée par Norbert Landsteiner (2005, 2016).
