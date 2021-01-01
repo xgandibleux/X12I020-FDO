@@ -41,8 +41,8 @@ Remarques :
 
 ***
 
-<a id="appVisual6502"></a>
-# Visual 6502 : simulateur, assembleur, desassembleur
+<a id="appVirtual6502"></a>
+# Virtual 6502 : simulateur, assembleur, desassembleur
 
 Application web qui propose un simulateur, un assembleur, un desassembleur 6502 ainsi qu'une description de l'ensemble des instructions du processeur.
 
