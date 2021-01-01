@@ -63,7 +63,7 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 
 - Réalisées par [MaelRB](https://github.com/MaelRB) dans le cadre d'un stage d'été de licence 1 encadré par [XavierG](https://github.com/xgandibleux).
 - Codées en langage JavaScript, la partie graphique utilise la librairie p5.js.
-- Distribuées sous [licence MIT](https://en.wikipedia.org/wiki/MIT_License).
+- Distribuées sous [licence CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Notes : 
 - Première diffusion publique le 1er janvier 2021.
