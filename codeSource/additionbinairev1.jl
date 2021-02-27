@@ -35,17 +35,13 @@ function addition(a::Array{Int64,1},b::Array{Int64,1})
     for i = reverse(1:length(a)) 
         r[i] = retenue
         if a[i]+b[i]+retenue == 0
-            s[i] = 0
-            retenue = 0 
+            s[i] = 0; retenue = 0 
         elseif a[i]+b[i]+retenue == 1
-            s[i] = 1
-            retenue = 0 
+            s[i] = 1; retenue = 0 
         elseif a[i]+b[i]+retenue == 2
-            s[i] = 0         
-            retenue = 1 
+            s[i] = 0; retenue = 1 
         elseif a[i]+b[i]+retenue == 3
-            s[i] = 1         
-            retenue = 1    
+            s[i] = 1; retenue = 1    
         end
     end  
 
@@ -93,19 +89,15 @@ function convertionb2b10signe(a::Array{Int64,1})
         a_cpt2 = zeros(Int64,k)
         for i = reverse(1:length(a_cpt1)) 
             if a_cpt1[i]+retenue == 0
-                a_cpt2[i] = 0
-                retenue = 0 
+                a_cpt2[i] = 0; retenue = 0 
             elseif a_cpt1[i]+retenue == 1
-                a_cpt2[i] = 1
-                retenue = 0 
+                a_cpt2[i] = 1; retenue = 0 
             elseif a_cpt1[i]+retenue == 2
-                a_cpt2[i] = 0         
-                retenue = 1  
+                a_cpt2[i] = 0; retenue = 1  
             end 
         end    
         # conversion base 2 vers base 10 -----
-        a_base10_Signe = convertionb2b10nonsigne(a_cpt2)  
-        a_base10_Signe = -1 * a_base10_Signe
+        a_base10_Signe = -1 * convertionb2b10nonsigne(a_cpt2) 
     end
 
     return a_base10_Signe
