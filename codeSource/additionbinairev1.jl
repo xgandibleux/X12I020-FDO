@@ -1,6 +1,13 @@
-# Testez votre aptitude à additionner deux nombres binaires repésentés sur k bits
-# Programme codé en langage julia (www.julialang.org)
-# X. Gandibleux - 2021
+#= Testez votre aptitude à additionner deux nombres binaires repésentés sur k bits :
+
+   Exercices générés aléatoirement pour s'entrainer à additionner deux nombres binaires 
+   représentés sur k bits selon que les nombres soient non-signés ou signés.
+
+   Programme codé en langage julia (www.julialang.org) avec la volonte de rester proche 
+   d'une description algorithmique.
+
+   X. Gandibleux - 2021
+=#
 
 # ============================================
 # Initalisations
@@ -47,7 +54,7 @@ function addition(a::Array{Int64,1},b::Array{Int64,1})
         carry = 1
     end
 
-    # Leve si necessaire le drapeau de overflow
+    # Leve le drapeau de overflow si necessaire
     if a[1]==b[1] && a[1]!=s[1]
         overflow = 1
     end
@@ -62,7 +69,7 @@ end
 function convertionb2b10nonsigne(a::Array{Int64,1})    
     a_base10_nonSigne = a[1]
     for i = 2:length(a)
-        a_base10_nonSigne = a_base10_nonSigne*2 + a[i]     
+        a_base10_nonSigne = a_base10_nonSigne * 2 + a[i]     
     end
     return a_base10_nonSigne
 end
