@@ -47,6 +47,9 @@ Chapitre 8 : **programmation bas niveau**
 - [Inside 6502 : opérations Fetch-Decode-Execute](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appInside6502)
 - [Virtual 6502 : simulateur, assembleur, desassembleur](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/index.md#appVirtual6502)
 
+## Codes support au cours
+- [julia : exercices générés aléatoirement sur l'addition de deux nombres binaires](https://repl.it/join/rfpqufkk-xgandibleux)
+
 ## Ressources : 
 - Livre de référence : [**Architecture et technologie des ordinateurs**](https://nantilus.univ-nantes.fr/vufind/Record/PPN230056938)
 - Page des [**Applications web support au cours** :  https://xgandibleux.github.io/FctOrdinateurs/]( https://xgandibleux.github.io/FctOrdinateurs/)
