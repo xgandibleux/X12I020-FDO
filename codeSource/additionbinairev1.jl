@@ -127,6 +127,7 @@ println("")
 @show a 
 @show b
 
+# --------------------------------------------
 println("")
 println("1) a+b=??? dans le cas des nombres non-signés :")
 println("Pressez CR pour obtenir la solution et la vérification")
@@ -150,7 +151,7 @@ else
     println("s = ",NaN)
 end
 
-
+# --------------------------------------------
 println("")
 println("2) a+b=??? dans le cas des nombres signés :")
 println("Pressez CR pour obtenir la solution et la vérification")
