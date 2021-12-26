@@ -52,7 +52,7 @@ Application web qui propose un simulateur, un assembleur, un desassembleur 6502 
 - Affectation des valeurs hexadécimales aux registres A, X, Y et PC.
 - Assemblage/desassemblage d'un programme en langage machine depuis le langage assembleur.
 
-[Aller à l'application (ver. 2016)](https://www.masswerk.at/6502/)
+[Aller à l'application (ver. 2021)](https://www.masswerk.at/6502/)
 
 [Vidéo de présentation (ver. 2020)](https://mediaserver.univ-nantes.fr/videos/l1-cm-x12i020-video-11/)
 
@@ -78,7 +78,7 @@ Remerciements :
 
 ### Concernant l'application Virtual 6502 :
 
-- Réalisée par Norbert Landsteiner (2005, 2016).
+- Réalisée par Norbert Landsteiner (2005, 2016, 2021).
 - Distribué sous [licence GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License).
 - Hébergée par l'auteur à l'URL suivante : [https://www.masswerk.at/6502/](https://www.masswerk.at/6502/)
 
