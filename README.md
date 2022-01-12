@@ -2,13 +2,13 @@
 
 
 # Fonctionnement des ordinateurs
-Enseignement (20hCM + 16hTD) dispensé en Licence 1 aux parcours suivants : Info, MathsInfo, CMI OPT/IM, CMI IS.
+Enseignement (20hCM + 16hTD) dispensé en Licence 1 aux parcours suivants : Info, MathsInfo, CMI MathsInfo.
 - Présentation : [**organisation et contenu**](../master/supportsCM/FctOI-0-organisationContenu.pdf)
 
 ## Supports
-Supports de CM 2020-2021 remis aux étudiants :
+Supports de CM et TD 2021-2022 :
 
-- Refactoring du cours pour le mettre en phase avec un enseignement mi-présentiel, mi-distantiel; les supports 2020-2021 arrivent bientôt...
+- Mis à disposition des étudiants sur madoc
 
 Supports de CM 2019-2020 remis aux étudiants :
 
