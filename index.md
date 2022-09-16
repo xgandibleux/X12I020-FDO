@@ -35,7 +35,7 @@ Application web qui matérialise graphiquement l'ensemble des opérations du cyc
 
 [Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/X12I020-FDO/Inside6502/index.html)
 
-[Exemple d'utilisation](https://xgandibleux.github.io/X12I020-FDO/blob/gh-pages/tuto.md)
+[Exemple d'utilisation](https://github.com/xgandibleux/X12I020-FDO/blob/gh-pages/tuto.md)
 
 Remarques :
 - L'ensemble des modes d'adressages du processeur sont implémentés.
