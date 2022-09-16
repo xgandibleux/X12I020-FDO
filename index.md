@@ -7,7 +7,7 @@ Application web de représentations et de calculs sur les entiers :
 - Représenter des entiers signés soit en _complément à 2_ soit en _bit de signe & valeur absolue_. 
 - Additionner en binaire des entiers non-signés ou signés.
 
-[Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Converter/index.html)
+[Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/X12I020-FDO/Converter/index.html)
 
 ***
 
@@ -20,7 +20,7 @@ Application web de lecture et d'écriture dans une mémoire 8 bits, ayant pour p
 - Interaction avec la memoire se fait via les buffers d'adresses, de données et de contrôle.
 - Interprétation de l'information présente dans le buffer de données lors de l'écriture en mémoire.
 
-[Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Memoire/index.html)
+[Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/X12I020-FDO/Memoire/index.html)
 
 ***
 
@@ -33,9 +33,9 @@ Application web qui matérialise graphiquement l'ensemble des opérations du cyc
 - Affectation de valeurs hexadécimales aux registres A, X, Y et PC.
 - Exécution d'un programme en mémoire pas à pas ou par cycle déterminant l'instruction en exécution.
 
-[Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/FctOrdinateurs/Inside6502/index.html)
+[Aller à l'application (v1.0.0-01/01/2021)](https://xgandibleux.github.io/X12I020-FDO/Inside6502/index.html)
 
-[Exemple d'utilisation](https://github.com/xgandibleux/FctOrdinateurs/blob/gh-pages/tuto.md)
+[Exemple d'utilisation](https://xgandibleux.github.io/X12I020-FDO/blob/gh-pages/tuto.md)
 
 Remarques :
 - L'ensemble des modes d'adressages du processeur sont implémentés.
